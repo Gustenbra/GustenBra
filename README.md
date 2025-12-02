@@ -9,5 +9,12 @@
 
 - Sword I made in Blender :)
 ![Demo](Assets/swordfull.gif)
-- Some takes from my farming sim
-  ![Demo](Assets/swordanimation.gif)
+![Demo](Assets/swordanimation.gif)
+- Ping Pong project
+![Demo](Assets/pingpong.gif)
+![Demo](Assets/pingpong0.gif)
+- Farming simulator
+  ![Demo](Assets/farmingsim.gif)
+- Some game art
+  ![Demo](Assets/seeds.gif)
+  ![Demo](Assets/money.gif)
