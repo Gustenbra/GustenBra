@@ -11,4 +11,4 @@
   
   
 
-![Demo](assets/swordfull.gif)
+![Demo](Assets/swordfull.gif)
