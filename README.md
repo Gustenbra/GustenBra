@@ -7,14 +7,19 @@
 - Hobbies and interests include medieval reenactment, electronics, drones, gymming and reading :) 
 - I can be reached at gustenbrandt@gmail.com
 
-- Sword I made in Blender :)
+- Sword I made in Blender
 ![Demo](Assets/swordfull.gif)
+
 ![Demo](Assets/swordanimation.gif)
+
 - Ping Pong project
 ![Demo](Assets/pingpong.gif)
+
 ![Demo](Assets/pingpong0.gif)
+
 - Farming simulator
   ![Demo](Assets/farmingsim.gif)
-- Some game art
+  
   ![Demo](Assets/seeds.gif)
+  
   ![Demo](Assets/money.gif)
